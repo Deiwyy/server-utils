@@ -1,0 +1,9 @@
+[project]
+name = "server-utils"
+version = "0.1.0"
+description = "Shared utilities for the home server"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
